@@ -58,6 +58,15 @@ word "Comline" in text.
 - Don't hotlink these files across repos. Copy the one you need in and note
   the commit you took it from.
 
+## Licensing
+
+The Comline name and mark are **trademarks**, not open-licensed assets — see
+[`TRADEMARK.md`](TRADEMARK.md). Use them to *refer to* the project freely;
+don't use them as the identity of your own product or fork. This is the half
+of "a fork can copy the code but can't *be* Comline" that the code licenses
+don't cover. Rationale:
+[docs → Design → Licensing](https://github.com/ComlineProject/docs).
+
 ## Updating a consumer
 
 When a file here changes, bump the vendored copy in each consumer:
